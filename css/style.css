@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(228, 230, 232);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    background-color: rgb(12, 69, 82);
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: beige;
+}
+button{
+    background-color: rgb(133, 124, 17);
+    color: aliceblue;
+    padding: 2%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: aliceblue;
+}
